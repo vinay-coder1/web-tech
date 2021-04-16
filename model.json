@@ -1,0 +1,29 @@
+{
+	"Models":[
+               {
+                 "name":"Girija",
+                 "image":"https://images.unsplash.com/photo-1526047932273-341f2a7631f9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Zmxvd2Vyc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
+                 "cost":500000,
+                 "height":5.5
+               },
+               {
+                 "name":"vinay",
+                 "image":"https://raw.githubusercontent.com/xworkzodc/FacultiesImages/master/Vinay.s.png",
+                 "cost":500000,
+                 "height":5.6
+               },
+               {
+               	"name":"Arati",
+                 "image":"https://cdn.pixabay.com/photo/2015/04/19/08/33/flower-729512__340.jpg",
+                 "cost":500000,
+                 "height":4.8
+               },
+               {
+               	"name":"Manoj",
+                 "image":"https://www.thoughtco.com/thmb/mik7Z00SAYN786BQbieXWOzZmc8=/2121x1414/filters:fill(auto,1)/lotus-flower-828457262-5c6334b646e0fb0001dcd75a.jpg",
+                 "cost":600000,
+                 "height":5.9
+               }       
+
+	   ]
+}
